@@ -22,3 +22,9 @@
 
 ### Email para contato: 
  lucaslns2001@gmail.com
+ 
+ <div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{LucasNSouza99}/count.svg" /></p> 
+<br>
+</div>
